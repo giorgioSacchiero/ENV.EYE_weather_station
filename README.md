@@ -3,11 +3,13 @@
 
 english version:
 
-ENV.EYE project is a net of self-sufficient weather stations which through a LoRa radio communication between them and towards a central hub connected to the internet allow to upload the whether conditions in a lage area in real time. It allows to collect 
+---
 
 versione in italiano:
 
-Il progetto ENV.EYE consiste in una rete di stazioni metereologiche autosufficienti che attraverso una comunicazione radio tra di loro e verso un hub centrale connesso alla rete internet permettono di caricare on-line le condizioni metereologiche di una regione in tempo reale. Permette di raccogliere informazioni relative a temperatura, umidità, pressione, velocità e direzione del vento, qualità dell'aria e radiazioni, è facile da usare in quanto è possibile installare una singola stazione in meno di 20 minuti ed è facile da costruire essendo in buona parte stampata in 3d.
+L’idea è nata dall’esigenza di dar vita a qualcosa di originale sfruttando le potenzialità e le versatilità delle soluzioni Arduino. 
+Nel nostro caso abbiamo voluto rivisitare il modello classico della stazione meteo IoT, con alcune peculiarità: un contatore Geiger capace di funzionare con un’alimentazione in bassissima tensione (attorno ai 2.2 Volt) e la possibilità di rendere il tutto indipendente attraverso un pannello fotovoltaico e due supercondensatori come riserva di energia. Ciò ci ha ovviamente vincolati a prestare la massima attenzione ai consumi, in ogni operazione e/o misura eseguita.
+Complessivamente il progetto si occupa della raccolta delle variabili caratteristiche dell’ambiente (temperatura, umidità, pressione atmosferica, ecc.) e del loro caricamento on-line come un’occhio sull’ambiente, da cui il nome “Env.Eye”. Per raggiungere lo scopo sono stati realizzati due dispositivi: un modulo chiamato Spot che raccoglie e invia i dati ambientali al secondo modulo chiamato Hub, che ha il compito di rendere disponibili i dati acquisiti in una bacheca on-line realizzata con Arduino Cloud.
 
 parte elettronica:
 
