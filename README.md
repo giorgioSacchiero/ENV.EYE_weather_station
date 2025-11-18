@@ -20,3 +20,11 @@ I file di progetto sono realizzati su EasyEDA e sono disponibili nella cartella 
 ## Meccanica e File CAD (./hardware/CAD/)
 
 ## Programmazione (./software/)
+
+## Licenza
+L'intero progetto è disponibile per il riutilizzo e la modifica sotto licenza CC BY-NC 4.0. Qualsiasi utilizzo commerciale è vietato salvo esplicita autorizzazione dei sottoscritti autori:
+1. Giacomo Pascon - (www.progettipascon.altervista.org) - giacomo.pascon@gmail.com 
+2. Cristian Piccone - cristian.piccone@gmail.com
+3. Giorgio Sacchiero - sacchiero2005@gmail.com
+
+Ulteriori informazioni sono presenti nel file LICENSE.txt e a [questo link](https://creativecommons.org/licenses/by-nc/4.0/).
