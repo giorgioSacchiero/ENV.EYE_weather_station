@@ -18,7 +18,7 @@ I file di progetto sono realizzati su EasyEDA e sono disponibili nella cartella 
 **NOTA:** La rev1 presenta dei malfunzionamenti. A breve verrà resa disponibile la versione corretta.
 
 ## Meccanica e File CAD (./hardware/CAD/)
-
+I file e le istruzioni per costruire la stazione si trovano nella cartella \hardware. 
 ## Programmazione (./software/)
 
 ## Licenza
