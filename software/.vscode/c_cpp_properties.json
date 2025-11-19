@@ -1,0 +1,27 @@
+{
+    "configurations": [
+        {
+            "name": "Win32",
+            "includePath": [
+                "${workspaceFolder}/**",
+                "${env:IDF_TOOLS_PATH}/components/**"
+            ],
+            "defines": [
+                "_DEBUG",
+                "UNICODE",
+                "_UNICODE"
+            ],
+            "compileCommands": [
+                "${workspaceFolder}/build/bootloader/compile_commands.json"
+            ],
+            "cppStandard": "c++23",
+            "cStandard": "c23",
+            "mergeConfigurations": true,
+            "browse": {
+                "limitSymbolsToIncludedHeaders": true
+            },
+            "compilerPath": "C:\\ESP_IDF_Tools\\tools\\ninja\\1.12.1\\ninja.exe"
+        }
+    ],
+    "version": 4
+}

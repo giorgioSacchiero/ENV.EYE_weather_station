@@ -1,0 +1,2 @@
+idf_component_register(SRCS "nano_esp32.cpp" INCLUDE_DIRS "." REQUIRES driver)
+target_compile_options(${COMPONENT_LIB} PRIVATE -std=gnu++23)

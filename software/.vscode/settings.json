@@ -1,0 +1,30 @@
+{
+  "idf.flashType": "JTAG",
+  "idf.portWin": "COM13",
+  "idf.openOcdConfigs": [
+    "board/esp32s3-builtin.cfg"
+  ],
+  "idf.customExtraVars": {
+    "IDF_TARGET": "esp32s3"
+  },
+  "clangd.path": "c:\\ESP_IDF_Tools\\tools\\esp-clang\\esp-19.1.2_20250312\\esp-clang\\bin\\clangd.exe",
+  "clangd.arguments": [
+    "--background-index",
+    "--query-driver=c:\\ESP_IDF_Tools\\tools\\xtensa-esp-elf\\esp-14.2.0_20241119\\xtensa-esp-elf\\bin\\xtensa-esp32s3-elf-gcc.exe",
+    "--compile-commands-dir=c:\\EspIDF_Work\\Env_Eye_rev1\\build"
+  ],
+  "files.associations": {
+    "*.old": "cpp",
+    "cstdint": "cpp",
+    "compare": "cpp",
+    "format": "cpp",
+    "cmath": "cpp"
+  },
+  "C_Cpp.default.compileCommands": [
+        "${workspaceFolder}/build/compile_commands.json"
+  ],
+  "idf.espIdfPathWin": "c:\\ESP_IDF\\v5.5.1\\esp-idf",
+  "idf.toolsPathWin": "c:\\ESP_IDF_Tools",
+  "idf.pythonInstallPath": "c:\\ESP_IDF_Tools\\tools\\idf-python\\3.11.2\\python.exe"
+}
+
