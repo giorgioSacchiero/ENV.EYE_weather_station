@@ -20,6 +20,7 @@ I file di progetto sono realizzati su EasyEDA e sono disponibili nella cartella 
 ## Meccanica e File CAD (./hardware/CAD/)
 
 ## Programmazione (./software/)
+Il firmware di Spot è disponibile nella cartella sopra indicata. Per la programmazione è stato usato Visual Studio Code con l'estensione ESP-IDF di Espressif.
 
 ## Licenza
 L'intero progetto è disponibile per il riutilizzo e la modifica sotto licenza CC BY-NC 4.0. Qualsiasi utilizzo commerciale è vietato salvo esplicita autorizzazione dei sottoscritti autori:
