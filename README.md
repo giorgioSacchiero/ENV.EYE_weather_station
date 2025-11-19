@@ -20,7 +20,7 @@ I file di progetto sono realizzati su EasyEDA e sono disponibili nella cartella 
 ## Meccanica e File CAD (./hardware/CAD/)
 
 ## Programmazione (./software/)
-Il firmware di Spot e Hub sono disponibili nella cartella sopra indicata. Per la programmazione del primo è stato usato Visual Studio Code con l'estensione ESP-IDF di Espressif. Invece, per quanto riguarda il seconod, è programmato nell'interfaccia Arduino Cloud, oppure attraverso Arduino IDE 2.0.
+Il firmware di Spot e Hub sono disponibili nella cartella sopra indicata. Per la programmazione del primo è stato usato Visual Studio Code con l'estensione ESP-IDF di Espressif. Invece, per quanto riguarda il secondo, è programmato nell'interfaccia Arduino Cloud, oppure attraverso Arduino IDE 2.0.
 
 ## Licenza
 L'intero progetto è disponibile per il riutilizzo e la modifica sotto licenza CC BY-NC 4.0. Qualsiasi utilizzo commerciale è vietato salvo esplicita autorizzazione dei sottoscritti autori:
